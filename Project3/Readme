@@ -1,1 +1,10 @@
-This project was built to read a list of items and present meaningful information to users.  I like how the menu interface works and it's simplicity.  It would be nice if the menu looked a little  different (flashy) but the code itself works as expected.  I found the use of cpp versions of the dictonary most confusing.  I'm used to using Python, so the learning curve was there for sure.   This was a good combination of reading and writing data to files.  Information I will be sure to use in the future.  I made this program adaptable and readable my following a good structure for function creation.
+Readme Edit for CS-250
+
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+I feel that user needs should be implemented after a thourough discussion with the end user.  This can be done over email or meeting, but the user needs to be consulted before any changes are made.  User stories are a good way to communicate this with people, not just your team, but can be shared with the user to show THEM what they are asking of you
+
+How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+I like the idea of emhpisizing small teams and working collaboratively.  I also like how testing is given priority throughout the process.
+
+What does it mean to be a good team member in software development?
+To be a good team member in software development you must be accountable.  This means being a good collaborator and communicator.  It also means to own your mistakes and be part of the change to fix them.
